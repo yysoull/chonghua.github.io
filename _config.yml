@@ -21,7 +21,7 @@ permalink   : date
 ##############################
 title       : "重华部落格"
 # this means to ignore newlines until "Language & timezone"
-description : "专注 C/C++ 高性能编程"
+description : "致力于分享自己所感兴趣的电脑知识,宣传开源免费的软件,以及各种计算机,互联网知识!"
   
 ## => Language and Timezone
 ##############################
@@ -66,20 +66,20 @@ page:
 ##############################
 author:
   type      : person # "person" (default), "organization"
-  name      : 郭子 # Your name or nickname
-  fullname  : "郭雄辉" # Your full-name
-  nickname  : shines77 # Your nickname
-  url       : https://shines77.github.io
+  name      : Chonghua # Your name or nickname
+  fullname  : "He Chonghua" # Your full-name
+  nickname  : Chonghua # Your nickname
+  url       : https://Chonghua.github.io
   avatar    : # path or url of avatar image
   bio       : I am an amazing person.
-  email     : gz_shines@msn.com
-  facebook  : xionghui.guo.9 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : gz_shines # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  email     : hechonghua@msn.com
+  facebook  : hechonghua # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : chonghua # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  weibo     : 1898686041 # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
-  github    : shines77 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : chonghua # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
 
@@ -143,11 +143,11 @@ original_author: # (Please don't need to modify here)
 # The last modified authors information display on the page footer copyright.
 last_modified_authors: # (Please don't need to modify here)
   - first:
-    name          : "Guo XiongHui" # The full name of last modified author.
-    nickname      : shines77  # The nickname of last modified author.
-    display_name  : shines77 # The display name of last modified author.
-    url           : https://github.com/shines77/jekyll-theme-text # The site url of the last modified author, e.g. https://your_domain_name/your_path
-    description   : "TeXt is a super customizable theme for Jekyll, modified by shines77." # Description
+    name          : "He Chonghua" # The full name of last modified author.
+    nickname      : Chonghua  # The nickname of last modified author.
+    display_name  : Chonghua # The display name of last modified author.
+    url           : https://github.com/chonghua/jekyll-theme-text # The site url of the last modified author, e.g. https://your_domain_name/your_path
+    description   : "TeXt is a super customizable theme for Jekyll, modified by ." # Description
 
   # Next modified author(hacker) information
 
@@ -161,10 +161,10 @@ last_modified_authors: # (Please don't need to modify here)
 # The source code information display on the page footer copyright.
 source_code:
   hosted_site   : "GitHub" # "GitHub" (default), The hosted site for your repository, e.g. "GitHub", "GitLab", "Bitbucket" or "GiTee"
-  name          : "Guo XiongHui" # Your full name
-  nickname      : shines77 # Your nickname
-  repo_username : shines77 # Your github username or other git site's username
-  repo_url      : https://github.com/shines77/shines77.github.io # The repository url of the source code, e.g. https://github.com/user_name/repository_name
+  name          : "Chonghua" # Your full name
+  nickname      : Chonghua # Your nickname
+  repo_username : Chonghua # Your github username or other git site's username
+  repo_url      : https://github.com/Chonghua/Chonghua.github.io # The repository url of the source code, e.g. https://github.com/user_name/repository_name
   description   : "TeXt is a super customizable theme for Jekyll." # Description
 
 ## => Plugins
@@ -228,12 +228,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : bfbbba08243e0c7fc20f # GitHub Application Client ID
-    clientSecret: a52e78240a76f33e1f4c40649752cb620fcdbebc # GitHub Application Client Secret
+    clientID    :  # GitHub Application Client ID
+    clientSecret:  # GitHub Application Client Secret
     repository  : gitalk-comments # GitHub repo
-    owner       : shines77 # GitHub repo owner
+    owner       :  # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - shines77
+      - chonghua
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
