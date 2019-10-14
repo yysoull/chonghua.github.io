@@ -110,7 +110,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: article
+      layout: post
       comment: true
       sharing: true
       license: true
