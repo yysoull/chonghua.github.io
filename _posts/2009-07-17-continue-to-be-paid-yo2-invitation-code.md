@@ -26,7 +26,3 @@ tags:
   * 48cd1fac53f3f4a8a0b2e25ac6c8c52b - 可使用
   * 1c892306f413666c9c90313f11540b2b - 可使用
 如果您不需要自己购买主机去体验wordpress,那么yo2确实是个很好的选择,至少能够使用自己喜欢的主题和编辑主题,已经是独此一家了,还有近来速度也可以,完全能够满足您的小小的要求,如果您再高档一点,还可以花36.5元人民币享受一下绑定域名的服务,主机费则可以省掉!
-
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:60da61c6-21d8-42b6-ac72-5171bd1e6ef7" class="wlWriterEditableSmartContent">
-  Technorati 标签: yo2邀请码
-</div>
