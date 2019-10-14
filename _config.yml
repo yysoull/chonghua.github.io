@@ -19,7 +19,7 @@ permalink   : date
 
 ## => Site Settings
 ##############################
-title       : "郭子的博客"
+title       : "重华部落格"
 # this means to ignore newlines until "Language & timezone"
 description : "专注 C/C++ 高性能编程"
   
@@ -33,12 +33,12 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 site_theme: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 
-url     : https://shines77.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://chonghua.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : / # does not include hostname
 
 ## => Your GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: shines77/shines77.github.io
+repository: chonghua/chonghua.github.io
 repository_tree: master
 
 ## => UI settings
