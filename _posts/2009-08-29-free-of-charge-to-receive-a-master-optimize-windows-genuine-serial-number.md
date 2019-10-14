@@ -36,7 +36,3 @@ ID号（身份证/护照/学生证）：
 活动主页
 
 搞不懂原来的http://www.wopti.net/这个域名变成了鲁大师
-
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:dcc7273d-e593-4431-9e83-5918d96fee76" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati 标签: windows优化大师,免费序列号,正版
-</div>
